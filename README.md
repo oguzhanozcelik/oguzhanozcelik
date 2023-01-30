@@ -38,4 +38,10 @@
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://www.oguzhanozcelik.com)
 
-<a href="https://www.oguzhanozcelik.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=oguzhanozcelik&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanozcelik&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://www.oguzhanozcelik.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=oguzhanozcelik&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://twitter.com/oguzhanozcelikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oguzhanozcelik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://instagram.com/oguzhanozcelikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
